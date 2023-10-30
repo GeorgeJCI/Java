@@ -1,0 +1,17 @@
+CatsRUs
+20
+Hen
+1
+sam
+12345
+5
+true
+flesh
+Bob
+1
+Sven
+64434
+2
+
+false
+true
